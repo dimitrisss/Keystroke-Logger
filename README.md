@@ -26,6 +26,7 @@ The Keystroke Logger Project is a Python-based tool designed to record keypress 
 
 ## Part 5: Using the Executable
 - The compiled executable can be used independently. All other files can be deleted.
+- ++ You can use the `Autorun` file, simply put it in the same usb with the executable... **Newst windows do not allow to auto-run from usb
 
 ##
 **Note:** The executable is designed to be undetectable by standard antivirus programs.
