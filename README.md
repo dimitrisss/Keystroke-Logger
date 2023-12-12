@@ -14,7 +14,7 @@ The Keystroke Logger Project is a Python-based tool designed to record keypress 
 -   `pip install pynput`.
 
 ## Part 3: Making the Python File Executable
- 1. Install PyInstaller using pip. It's recommended to do this in a virtual environment:
+ 1. Install PyInstaller using pip. It's recommended to do this in a virtual environment: **NOTE: You may need to diactivate the windows difender temporally to make it executable
 -  `pip install pyinstaller`.
  2. Compile the script:
   - Open the command prompt in the directory where your script is located.
